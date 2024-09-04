@@ -1,7 +1,8 @@
 # String_Quoting
 
 print('hello world')
-print("hello, world")
-print('''hello,
-      world
+print("She said, 'hello world'")
+print('''helloworld
+        hello world
+hello, world
         ''')
