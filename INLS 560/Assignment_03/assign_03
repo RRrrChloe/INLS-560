@@ -1,0 +1,7 @@
+Countries = ['Korean', 'Japan', 'Thailand', 'Vietnam']
+
+for country in Countries:
+    if country == "Thailand":
+        print(country.title) 
+    else:
+        print(country.upper()) 
